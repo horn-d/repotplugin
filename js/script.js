@@ -1,11 +1,17 @@
 jQuery(document).ready(function( $ ) {
-  $('.popupCloseButton').on('click', function() {
-    $('.login-form').hide();
+  $('.popupCloseButton1').on('click', function() {
+    $('.login-form1').hide();
   })
 });
 
 jQuery(document).ready(function( $ ) {
-  $('#submitBtn').on('click', function() {
-    $('.login-form').hide();
+  $('#submitBtn1').on('click', function() {
+    $('.login-form1').hide();
+  })
+});
+
+jQuery(document).ready(function( $ ) {
+  $('#submitBtn2').on('click', function() {
+    $('.login-form1').hide();
   })
 });
