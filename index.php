@@ -16,9 +16,9 @@ function newsletter_form()
     $content .= '<div class="popupCloseButton">X</div>';
   	$content .= '<section>';
     $content .= '<h3 id="velkommen">Welcome TO </h3>';
-    $content .= '<img id="logo" src=" '.plugins_url("partyvibesplugin/img/logo.png").' " ';
+    $content .= '<img id="logo" src=" '.plugins_url("blogplugin/img/logo.png").' " ';
     $content .= 'alt="Cheers Logo">';
-  	$content .= '<h5 id="tilmeld">Sign up for our weekly partyvibes</h5>';
+  	$content .= '<h5 id="tilmeld">Sign up for our blog-posts</h5>';
   	$content .= '</section>';
     $content .= '<section class="form">';
     $content .= '<form action="#" id="myForm">';
@@ -26,7 +26,7 @@ function newsletter_form()
     $content .= '<input type="email" name="email" id="email" placeholder="Enter your name here..." required><i class="fas fa-envelope"></i>';
     $content .= '</div>';
   	$content .= '<div>';
- 	$content .= '<input type="submit" value="LET THE GAME BEGIN!" name="submitBtn" id="submitBtn2">';
+ 	$content .= '<input type="submit" value="LET THE BLOGS BEGIN!" name="submitBtn" id="submitBtn2">';
     $content .= '</div>';
   	$content .= '<div>';
  	$content .= '<input type="button" value="No, I\'m boring" name="submitBtn" id="submitBtn">';
