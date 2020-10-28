@@ -5,7 +5,7 @@ With this plugin you will be able to make a pop-up on your page where users can 
 
 ***
 ## If you want to download the plugin follow these steps:
-* Download The repository
+* Download the repository **wordpress-partyvibesplugin-main**
 * Unzip the file
 * Rename your folder from **wordpress-partyvibesplugin-main** to **partyvibesplugin**
 * Copy the folder and insert into your wordpress root-directory --> wp-content --> **plugins**
