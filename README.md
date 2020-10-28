@@ -1,6 +1,6 @@
-# wordPress-partyvibesplugin
+# Newsletter plugin for Repot
 
-![Chocolate Chip Cookies](screenshot.png)
+![Plugin Repot signup for newsletters](plugin.JPG "Signup for newsletter")
 
 ***
 
